@@ -5,7 +5,7 @@
 struct dedomena
 {
 	char name[25];                            
-    float timh;
+        float timh;
 	int apothema;                                //domh dedomenwn
 };
 
